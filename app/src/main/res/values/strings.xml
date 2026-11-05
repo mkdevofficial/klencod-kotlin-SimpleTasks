@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مهامي</string>
+    <string name="hint_new_task">اكتب مهمة جديدة…</string>
+    <string name="add">إضافة</string>
+    <string name="empty_list">لا توجد مهام بعد</string>
+    <string name="clear_done">حذف المكتملة</string>
+    <string name="nothing_done">لا توجد مهام مكتملة</string>
+    <string name="delete_title">حذف المهمة؟</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+</resources>
